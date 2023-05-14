@@ -22,6 +22,5 @@ I'm Soyam Prabha Mallick from India. I am a tech enthusiast keen of learning all
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyamprabha&show_icons=true&theme=merko)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Soyamprabha)](https://git.io/streak-stats&theme=merko)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Soyamprabha&theme=merko)](https://git.io/streak-stats)
 
