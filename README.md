@@ -33,6 +33,5 @@ I'm Soyam Prabha Mallick from India. I am a tech enthusiast keen of learning all
 
 
 [![Therapeak](https://github-readme-stats.vercel.app/api/pin/?username=Soyamprabha&repo=therapeak&theme=merko)](https://github.com/Soyamprabha/therapeak.git)
-
 [![Localeyes](https://github-readme-stats.vercel.app/api/pin/?username=Soyamprabha&repo=LocalEyes&theme=merko)](https://github.com/Soyamprabha/LocalEyes.git)
 
