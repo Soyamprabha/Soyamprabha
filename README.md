@@ -6,8 +6,9 @@ I'm Soyam Prabha Mallick from India. I am a tech enthusiast keen of learning all
 - 🌱 I’m currently learning Reactjs 
 - 👯 I’m looking to collaborate on interesting and engaging projects. 
 
-##Skills and experience:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,figma&theme=light)](https://skillicons.dev)
+##Skills and experience:  
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs&theme=light,figma&theme=light)](https://skillicons.dev)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Soyamprabha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/soyam-prabha-mallick-54119b233/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/_.soyam.prabha._?igshid=OTk0YzhjMDVlZA==/)  
