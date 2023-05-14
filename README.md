@@ -29,5 +29,5 @@ I'm Soyam Prabha Mallick from India. I am a tech enthusiast keen of learning all
 
 [![Soyam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Soyamprabha&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Soyamprabha/therapeak.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soyamprabha&repo=therapeak)](https://github.com/Soyamprabha/therapeak.git)
 
