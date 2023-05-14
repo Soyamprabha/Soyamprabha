@@ -21,9 +21,9 @@ I'm Soyam Prabha Mallick from India. I am a tech enthusiast keen of learning all
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soyamprabha&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyamprabha&show_icons=true&theme=merko)
+![Soyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyamprabha&show_icons=true&theme=merko)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Soyamprabha&theme=merko)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Soyamprabha&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Soyam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Soyamprabha&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
