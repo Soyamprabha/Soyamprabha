@@ -7,7 +7,6 @@ I'm Soyam Prabha Mallick from India. I am a tech enthusiast keen of learning all
 - 👯 I’m looking to collaborate on interesting and engaging projects. 
 
 ##Skills and experience:  
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs&theme=light,figma&theme=light)](https://skillicons.dev)
 
 
