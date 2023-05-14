@@ -9,7 +9,9 @@ I'm Soyam Prabha Mallick from India. I am a tech enthusiast keen of learning all
 ## Skills and experience:  
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,react,firebase,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,react,firebase,figma&theme=light)](https://skillicons.dev)<a href="https://www.canva.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/> 
+</a>
 
 
 ## Connect with me:  
