@@ -34,8 +34,8 @@ I'm Soyam Prabha Mallick from India. I am a tech enthusiast keen of learning all
 
 [![Therapeak](https://github-readme-stats.vercel.app/api/pin/?username=Soyamprabha&repo=therapeak&theme=merko)](https://github.com/Soyamprabha/therapeak.git)
 [![Localeyes](https://github-readme-stats.vercel.app/api/pin/?username=Soyamprabha&repo=LocalEyes&theme=merko)](https://github.com/Soyamprabha/LocalEyes.git)
-[![e-Vive](https://github-readme-stats.vercel.app/api/pin/?username=Soyamprabha&repo=google-solution-challenge-e-Vive&theme=merko)](https://github.com/Soyamprabha/google-solution-challenge-e-Vive-.git)
-[![Culture-Connect](https://github-readme-stats.vercel.app/api/pin/?username=Soyamprabha&repo=Culture-Connect-edited&theme=merko)](https://github.com/Soyamprabha/Culture-Connect-edited-.git)
+[![e-Vive](https://github-readme-stats.vercel.app/api/pin/?username=Soyamprabha&repo=google-solution-challenge-e-Vive&theme=merko)](https://github.com/Soyamprabha/google-solution-challenge-e-Vive.git)
+[![Culture-Connect](https://github-readme-stats.vercel.app/api/pin/?username=Soyamprabha&repo=Culture-Connect-edited&theme=merko)](https://github.com/Soyamprabha/Culture-Connect-edited.git)
 [![Psyche-Hound](https://github-readme-stats.vercel.app/api/pin/?username=Soyamprabha&repo=Psyche-Hound&theme=merko)](https://github.com/Soyamprabha/Psyche-Hound.git)
 
 
