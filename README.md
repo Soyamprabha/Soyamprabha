@@ -18,7 +18,7 @@ I'm Soyam Prabha Mallick from India. I am a tech enthusiast keen of learning all
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soyamprabha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soyamprabha&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyamprabha&show_icons=true&theme=merko)
 
