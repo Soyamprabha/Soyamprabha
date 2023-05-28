@@ -29,7 +29,7 @@ I'm Soyam Prabha Mallick from India. I am a tech enthusiast keen of learning all
 ![Soyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyamprabha&show_icons=true&theme=merko)
 
 
-[![Soyam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Soyamprabha&theme=merko)](https://github.com/Soyamprabha/github-readme-activity-graph)
+
 
 
 
